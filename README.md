@@ -1,0 +1,2 @@
+# cmkcc
+coinmarketcap change checker
